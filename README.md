@@ -3,6 +3,7 @@
 Hey👋🏾, I'm Rhonda! I am a Front End Web Developer, Designer and Content Creator based in New York. I have been working in the Information Technology industry for over a decade. I am passionate about developing creative solutions for web and mobile applications. Currently transitioning to Full Stack and Software Engineering for Business Solutions. Developer MVP for <a href="https://github.com/fitbit/Fitbit">Fitbit</a>. When I'm not creating or breaking stuff you can find me playing Pokémon Go and Animal Crossing. Welcome to my Github page.
 
 ### Latest work:
+---
 Check out my <a href="https://www.instagram.com/ar/719812415530951/"> **CodingLife** </a>filter for **Instagram**!</br>
 My **Fitbit** clocks can be found <a href="https://gallery.fitbit.com/developer/53dd2036-6cee-4f35-b94e-003c31d531a1"/> **here**</a>.</br>
 
@@ -13,7 +14,7 @@ My **Fitbit** clocks can be found <a href="https://gallery.fitbit.com/developer/
 ![#ff0000](https://placehold.it/12/ff0000?text=+) Amazon Web Services </br>
 ![#ff7f00](https://placehold.it/12/ff7f00?text=+) Actions for Google Assistant</br>
 ![#ffff00](https://placehold.it/12/ffff00?text=+) Back-End Architecture (Databases and Web API)</br>
-![#00ff00](https://placehold.it/12/00ff00?text=+) Building Microsoft 365 solutions for Office and SharePoin </br>
+![#00ff00](https://placehold.it/12/00ff00?text=+) Building Microsoft 365 Solutions for Office and SharePoint </br>
 ![#0000ff](https://placehold.it/12/0000ff?text=+) Designing, Developing & Implementing Systems & Apps for Business Solutions</br>
 ![#4b0082](https://placehold.it/12/4b0082?text=+) .NET Framework</br>
 ![#9400d3](https://placehold.it/12/9400d3?text=+) React Native Development </br>
@@ -21,6 +22,7 @@ My **Fitbit** clocks can be found <a href="https://gallery.fitbit.com/developer/
 </details>
 
 ### Get in touch:
+---
 Personal Site: <a href="https://www.rhondahill.dev/">rhondahill.dev</a></br>
 Instagram: <a href="http://instagram.com/rhonda.codes">@rhonda.codes</a></br>
 Twitter: <a href="http://twitter.com/rhondacodes">@rhondacodes</a>
@@ -36,11 +38,18 @@ Twitter: <a href="http://twitter.com/rhondacodes">@rhondacodes</a>
 </ul>
 </details>
 
-
 ### Ask me about:
-Diversity and Inclusion in Tech **#BlackLivesMatter**</br>
-Web Development</br>
-Mobile Device Managaement (Android & iOS)
+---
+<details>
+<summary><strong>Topics:</strong></summary></br>
+<ul>
+
+![#654321](https://placehold.it/12/654321?text=+) Diversity and Inclusion in Tech **#BlackLivesMatter**</a></br>
+![#000000](https://placehold.it/12/000000?text=+) Web Development</a></br>
+![#737373](https://placehold.it/12/737373?text=+) Mobile Device Managaement (Android & iOS)</a></br>
+
+</ul>
+</details>
 
 
 <!--
