@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/rhondachill/rhondachill.github.io/blob/master/Portfolio/Content/rhbanneranim.svg)
 
-Hey👋🏾, I'm Rhonda! I am a Front End Web Developer, Designer and Content Creator based in New York. I have been working in the Information Technology industry for over a decade. I am passionate about developing creative solutions for web and mobile applications. Currently transitioning to Full Stack and Software Engineering for Business Solutions. Developer MVP for <a href="https://github.com/fitbit/Fitbit">Fitbit</a>. When I'm not creating or breaking stuff you can find me playing Pokémon Go and Animal Crossing. Welcome to my Github page.
+Hey👋🏾, I'm Rhonda! I am an IT Business Solutions Analyst, Web Developer, Designer and Content Creator based in New York. I have been working in the Information Technology industry for over a decade. I am passionate about developing creative solutions for web and mobile applications. Developer MVP for <a href="https://github.com/fitbit/Fitbit">Fitbit</a>. When I'm not creating or breaking stuff you can find me playing Pokémon Go and Animal Crossing. Welcome to my Github page.
 
 ### Latest work:
 ---
