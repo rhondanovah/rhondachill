@@ -11,13 +11,13 @@ My **Fitbit** clocks can be found <a href="https://gallery.fitbit.com/developer/
 <summary><strong>What I am learning:</strong></summary></br>
 <ul>
 
-![#ff0000](https://placehold.it/12/ff0000?text=+) Amazon Web Services </br>
-![#ff7f00](https://placehold.it/12/ff7f00?text=+) Actions for Google Assistant</br>
-![#ffff00](https://placehold.it/12/ffff00?text=+) Back-End Architecture (Databases and Web API)</br>
-![#00ff00](https://placehold.it/12/00ff00?text=+) Building Microsoft 365 Solutions for Office and SharePoint </br>
-![#0000ff](https://placehold.it/12/0000ff?text=+) Designing, Developing & Implementing Systems & Apps for Business Solutions</br>
-![#4b0082](https://placehold.it/12/4b0082?text=+) .NET Framework</br>
-![#9400d3](https://placehold.it/12/9400d3?text=+) React Native Development </br>
+❤️ Amazon Web Services </br>
+🧡 Actions for Google Assistant</br>
+💛 Back-End Architecture (Databases and Web API)</br>
+💚 Building Microsoft 365 Solutions for Office and SharePoint </br>
+💙 Designing, Developing & Implementing Systems & Apps for Business Solutions</br>
+💜 .NET Framework</br>
+🖤 React Native Development </br>
 </ul>
 </details>
 
@@ -31,9 +31,8 @@ Twitter: <a href="http://twitter.com/rhondacodes">@rhondacodes</a>
 <summary><strong>Other spaces I hang out:</strong></summary></br>
 <ul>
 
-![#b19cd9](https://placehold.it/12/b19cd9?text=+) <a href="https://dev.to/rhondachill">CodePen</a></br>
-![#ffcocb](https://placehold.it/12/ffcocb?text=+) <a href="https://codepen.io/rhondachill">DEV</a></br>
-![#d2691e](https://placehold.it/12/d2691e?text=+) <a href="https://google.dev/u/103869560649326515721?authuser=1">Google Developer Profile</a></br>
+❤️<a href="https://dev.to/rhondachill">CodePen</a></br>
+🧡<a href="https://codepen.io/rhondachill">DEV</a></br>
 
 </ul>
 </details>
@@ -44,9 +43,9 @@ Twitter: <a href="http://twitter.com/rhondacodes">@rhondacodes</a>
 <summary><strong>Topics:</strong></summary></br>
 <ul>
 
-![#654321](https://placehold.it/12/654321?text=+) Diversity and Inclusion in Tech **#BlackLivesMatter**</a></br>
-![#000000](https://placehold.it/12/000000?text=+) Web Development</a></br>
-![#737373](https://placehold.it/12/737373?text=+) Mobile Device Managaement (Android & iOS)</a></br>
+🤎 Diversity and Inclusion in Tech **#BlackLivesMatter**</a></br>
+💛 Web Development</a></br>
+💚 Mobile Device Managaement (Android & iOS)</a></br>
 
 </ul>
 </details>
