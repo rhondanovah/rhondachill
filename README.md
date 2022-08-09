@@ -24,15 +24,15 @@ My **Fitbit** clocks can be found <a href="https://gallery.fitbit.com/developer/
 ### Get in touch:
 ---
 Personal Site: <a href="https://www.rhondahill.dev/">rhondahill.dev</a></br>
-Instagram: <a href="http://instagram.com/rhonda.codes">@rhonda.codes</a></br>
-Twitter: <a href="http://twitter.com/rhondacodes">@rhondacodes</a>
+Instagram: <a href="http://instagram.com/rhondanovah">@rhondanovah</a></br>
+Twitter: <a href="http://twitter.com/rhondanovah">@rhondanovah</a>
 
 <details>
 <summary><strong>Other spaces I hang out:</strong></summary></br>
 <ul>
 
-❤️<a href="https://dev.to/rhondachill">CodePen</a></br>
-🧡<a href="https://codepen.io/rhondachill">DEV</a></br>
+❤️<a href="https://dev.to/rhondanovah">CodePen</a></br>
+🧡<a href="https://codepen.io/rhondanovah">DEV</a></br>
 
 </ul>
 </details>
